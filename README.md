@@ -7,7 +7,7 @@ This is a collaborative markdown file where students will add their names and a 
 - Name: Fauve
   Bio: ma bio 
 
-- Name: John Doe
+- Name: Guclu Gurkan
   Bio: A web development student learning Git and GitHub.
 
 - Name: John Doe
