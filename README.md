@@ -4,8 +4,8 @@ This is a collaborative markdown file where students will add their names and a 
 
 ## Students
 
-- Name: 
-  Bio:
+- Name: Fauve
+  Bio: ma bio 
 
 - Name: John Doe
   Bio: A web development student learning Git and GitHub.
